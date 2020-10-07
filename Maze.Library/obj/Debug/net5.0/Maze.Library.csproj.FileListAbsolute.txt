@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
+C:\Users\Acer\Desktop\Schule\4DHIF\C#\robot-maze-quiz-PatrickHuemer\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
